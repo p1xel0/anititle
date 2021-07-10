@@ -20,11 +20,7 @@ void printHelp() {
 
 int main(int argc, char** argv) {
 	std::wstring input, title, year, output;
-	if (argc < 2) {
-		printHelp();
-		return 1;
-	} 
-	else if (argc == 2) {
+	if (argc == 2) {
 		input = std::wstring(s2ws(argv[1]));
 	} 
 	else {
