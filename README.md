@@ -2,8 +2,9 @@
 Get the title of anime files using anitomy.
 
 ## Example Usage:
-input: ```anititle '[SubsPlease] Dragon Quest - Dai no Daibouken (2020) - 39 (1080p) [57E3D085].mkv'```
-output: ```Dragon Quest - Dai no Daibouken (2020)```
+Input: ```anititle '[SubsPlease] Dragon Quest - Dai no Daibouken (2020) - 39 (1080p) [57E3D085].mkv'```
+
+Output: ```Dragon Quest - Dai no Daibouken (2020)```
 
 ## Build Instructions:
 ```
