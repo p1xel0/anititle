@@ -38,7 +38,6 @@ int main(int argc, char** argv) {
 	
 	year = elements.get(anitomy::kElementAnimeYear);
 	title = elements.get(anitomy::kElementAnimeTitle);
-	output = year + title; 
 	if(year.empty()) {
 		output = title;
 	}
